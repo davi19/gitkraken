@@ -43,11 +43,6 @@
 3. Go in GitKraken click in preferences
 4. Go in UI Customization and select the theme.
 
-<!-- this section is optional -->
-## 🙋 FAQ
-
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
 
 ## 💝 Thanks to
 
