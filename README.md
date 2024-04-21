@@ -31,7 +31,7 @@
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/davi19/Catppuccin-Gitkraken-Theme/assets/9946675/e87d0fd6-c33a-4182-907e-3a5d144d98b8"/>
+<img src="[https://github.com/davi19/Catppuccin-Gitkraken-Theme/assets/9946675/e87d0fd6-c33a-4182-907e-3a5d144d98b8](https://github.com/davi19/gitkraken/blob/master/assets/mocha.png)"/>
 </details>
 
 ## Usage
